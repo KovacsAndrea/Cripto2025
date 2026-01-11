@@ -16,5 +16,10 @@ namespace CipherBox.UI
         {
             InitializeComponent();
         }
+
+        private void Hash_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

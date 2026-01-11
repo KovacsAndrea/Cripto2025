@@ -92,9 +92,9 @@ namespace CipherBox.CipherModels
                 for (int j = 0; j < 5; j++)
                 {
                     matrixDisplay.Append(matrix[i, j]);
-                    matrixDisplay.Append("             "); // spatiu intre litere
+                    matrixDisplay.Append("             "); 
                 }
-                matrixDisplay.Append("\r\n"); // linie noua
+                matrixDisplay.Append("\r\n"); 
             }
             this.formattedMatrix = matrixDisplay.ToString();
         }

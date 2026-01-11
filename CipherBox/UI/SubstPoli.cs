@@ -77,8 +77,6 @@ namespace CipherBox.UI
             if (!validate_value_of_n(out int n)) return;
 
             create_cipher();
-
-            // afisam cheia generata
             generated_alfa_text_box.Text = cipher.get_display_text();
         }
 
@@ -104,12 +102,10 @@ namespace CipherBox.UI
 
         private void generated_alfa_text_box_TextChanged(object sender, EventArgs e)
         {
-            // optional: nu facem nimic, doar display
         }
 
         private void n_value_text_box_TextChanged(object sender, EventArgs e)
         {
-            // optional: putem reseta cheile aici daca vrem
         }
 
         private void SubstPoli_Load(object sender, EventArgs e)

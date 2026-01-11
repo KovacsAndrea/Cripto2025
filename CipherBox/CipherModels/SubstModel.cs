@@ -46,26 +46,22 @@ namespace CipherBox.CipherModels
 
             StringBuilder result = new StringBuilder();
 
-            int keyIndex = 0; // tine minte ce dictionar folosim
+            int keyIndex = 0; 
 
             foreach (char c in plainText.ToUpper())
             {
-                // daca nu e litera o lasam asa
                 if (c < 'A' || c > 'Z')
                 {
                     result.Append(c);
                 }
                 else
                 {
-                    // luam dictionarul corespunzator pozitiei
                     Dictionary<char, char> currentKey = encryptionKeys[keyIndex];
 
                     result.Append(currentKey[c]);
 
-                    // trecem la urmatorul dictionar
                     keyIndex++;
 
-                    // daca am ajuns la m, ne intoarcem la 0
                     if (keyIndex == m)
                         keyIndex = 0;
                 }
@@ -85,14 +81,12 @@ namespace CipherBox.CipherModels
 
             foreach (char c in encryptedText.ToUpper())
             {
-                // daca nu e litera o lasam asa
                 if (c < 'A' || c > 'Z')
                 {
                     result.Append(c);
                 }
                 else
                 {
-                    // luam dictionarul de decriptare corespunzator
                     Dictionary<char, char> currentKey = decryptionKeys[keyIndex];
 
                     result.Append(currentKey[c]);
@@ -142,7 +136,6 @@ namespace CipherBox.CipherModels
 
                 foreach (var pair in encKey)
                 {
-                    // inversam cheia
                     decKey.Add(pair.Value, pair.Key);
                 }
 

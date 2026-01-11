@@ -125,5 +125,9 @@ namespace CipherBox.UI
                 analysisForm.Close();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

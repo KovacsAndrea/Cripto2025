@@ -53,6 +53,7 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Cifrul \"+n\" inlocuieste fiecare litera din textul clar cu a n-a litera care urmea" +
     "za in alfabet. ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 

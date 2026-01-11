@@ -10,7 +10,7 @@ namespace CipherBox.Analysis
         private MonoAlphaAnalysis mono = new MonoAlphaAnalysis();
 
         // encryptedText = textul criptat
-        // maxAlphabets = numarul maxim de alfabete pe care vrem sa le testam (1..5)
+        // maxAlphabets = numarul maxim de alfabete pe care le testam (1..5)
         public string GetAnalysisResults(string encryptedText, int maxAlphabets = 5)
         {
             encryptedText = encryptedText.ToUpper();

@@ -127,6 +127,9 @@
     <EmbeddedResource Include="UI\CriptAnalysis.resx">
       <DependentUpon>CriptAnalysis.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UI\Hash.resx">
+      <DependentUpon>Hash.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\Playfair.resx">
       <DependentUpon>Playfair.cs</DependentUpon>
     </EmbeddedResource>

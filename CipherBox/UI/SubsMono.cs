@@ -30,7 +30,6 @@ namespace CipherBox.UI
 
         #region VALIDATORS
 
-        // verificam daca e ales un radio button
         private bool validate_radio_buttons()
         {
             if (!generate_perm_radio.Checked && !input_perm_radio.Checked)

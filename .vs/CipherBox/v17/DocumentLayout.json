@@ -3,60 +3,32 @@
   "WorkspaceRootPath": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\analysis\\playfairanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\analysis\\playfairanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\cipherservice\\polialphacipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\cipherservice\\polialphacipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\subsmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\subsmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\criptanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\criptanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\analysis\\polialphaanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\analysis\\polialphaanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\analysis\\plusnanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\analysis\\plusnanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ciphermodels\\playfairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ciphermodels\\playfairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\analysis\\monoalphaanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\analysis\\monoalphaanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\analysis\\playfairanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\analysis\\playfairanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\substpoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\substpoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\analysis\\plusnanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\analysis\\plusnanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\substpoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\substpoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ciphermodels\\substmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ciphermodels\\substmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\plusn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\plusn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ciphermodels\\plusnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ciphermodels\\plusnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\cezar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,28 +39,28 @@
       "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\cezar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\subsmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\subsmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\criptanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\criptanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\criptanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\criptanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ciphermodels\\substmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ciphermodels\\substmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\plusn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\plusn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\cipherbox\\ciphermodels\\playfairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ciphermodels\\playfairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\cipherbox\\cipherservice\\playfaircipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\cipherservice\\playfaircipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|d:\\oradea\\sem1\\cripto\\cipherbox\\cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90B499E-E437-44EA-9EBC-5D52C9AA9862}|CipherBox\\CipherBox.csproj|solutionrelative:cipherbox\\ui\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,294 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 139,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoliAlphaCipher.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherService\\PoliAlphaCipher.cs",
+              "RelativeDocumentMoniker": "CipherBox\\CipherService\\PoliAlphaCipher.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherService\\PoliAlphaCipher.cs",
+              "RelativeToolTip": "CipherBox\\CipherService\\PoliAlphaCipher.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:03:01.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonoAlphaAnalysis.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
+              "RelativeDocumentMoniker": "CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
+              "RelativeToolTip": "CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:02:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PLayfairAnalysis.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PLayfairAnalysis.cs",
+              "RelativeDocumentMoniker": "CipherBox\\Analysis\\PLayfairAnalysis.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PLayfairAnalysis.cs",
+              "RelativeToolTip": "CipherBox\\Analysis\\PLayfairAnalysis.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:02:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlusNAnalysis.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PlusNAnalysis.cs",
+              "RelativeDocumentMoniker": "CipherBox\\Analysis\\PlusNAnalysis.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PlusNAnalysis.cs",
+              "RelativeToolTip": "CipherBox\\Analysis\\PlusNAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:02:37.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubstModel.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\SubstModel.cs",
+              "RelativeDocumentMoniker": "CipherBox\\CipherModels\\SubstModel.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\SubstModel.cs",
+              "RelativeToolTip": "CipherBox\\CipherModels\\SubstModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:02:10.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlusNModel.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\PlusNModel.cs",
+              "RelativeDocumentMoniker": "CipherBox\\CipherModels\\PlusNModel.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\PlusNModel.cs",
+              "RelativeToolTip": "CipherBox\\CipherModels\\PlusNModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:50.915Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Hash.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Hash.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\Hash.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Hash.cs [Design]",
-              "RelativeToolTip": "CipherBox\\UI\\Hash.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T19:27:34.289Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CriptAnalysis.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\CriptAnalysis.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs",
-              "RelativeToolTip": "CipherBox\\UI\\CriptAnalysis.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwEMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:04:08.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Playfair.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\Playfair.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs [Design]",
-              "RelativeToolTip": "CipherBox\\UI\\Playfair.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T22:06:51.96Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SubsMono.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubsMono.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\SubsMono.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubsMono.cs",
-              "RelativeToolTip": "CipherBox\\UI\\SubsMono.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T14:01:15.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PLayfairAnalysis.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PLayfairAnalysis.cs",
-              "RelativeDocumentMoniker": "CipherBox\\Analysis\\PLayfairAnalysis.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PLayfairAnalysis.cs",
-              "RelativeToolTip": "CipherBox\\Analysis\\PLayfairAnalysis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:53:54.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Home.cs",
-              "RelativeDocumentMoniker": "CipherBox\\Home.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Home.cs [Design]",
-              "RelativeToolTip": "CipherBox\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:01:19.913Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Home.cs",
-              "RelativeDocumentMoniker": "CipherBox\\Home.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Home.cs",
-              "RelativeToolTip": "CipherBox\\Home.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAjwB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:01:22.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlusNAnalysis.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PlusNAnalysis.cs",
-              "RelativeDocumentMoniker": "CipherBox\\Analysis\\PlusNAnalysis.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PlusNAnalysis.cs",
-              "RelativeToolTip": "CipherBox\\Analysis\\PlusNAnalysis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:51:22.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PoliAlphaAnalysis.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PoliAlphaAnalysis.cs",
-              "RelativeDocumentMoniker": "CipherBox\\Analysis\\PoliAlphaAnalysis.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\PoliAlphaAnalysis.cs",
-              "RelativeToolTip": "CipherBox\\Analysis\\PoliAlphaAnalysis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:53:42.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MonoAlphaAnalysis.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
-              "RelativeDocumentMoniker": "CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
-              "RelativeToolTip": "CipherBox\\Analysis\\MonoAlphaAnalysis.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:53:31.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PlusN.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\PlusN.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\PlusN.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\PlusN.cs [Design]",
-              "RelativeToolTip": "CipherBox\\UI\\PlusN.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:56:28.039Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PlayfairCipher.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherService\\PlayfairCipher.cs",
-              "RelativeDocumentMoniker": "CipherBox\\CipherService\\PlayfairCipher.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherService\\PlayfairCipher.cs",
-              "RelativeToolTip": "CipherBox\\CipherService\\PlayfairCipher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T22:10:04.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "PlayfairModel.cs",
               "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\PlayfairModel.cs",
               "RelativeDocumentMoniker": "CipherBox\\CipherModels\\PlayfairModel.cs",
               "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\PlayfairModel.cs",
               "RelativeToolTip": "CipherBox\\CipherModels\\PlayfairModel.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwFYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAswGAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T22:08:58.616Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 139,
-          "SelectedChildIndex": 6,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SubstPoli.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubstPoli.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\SubstPoli.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubstPoli.cs",
-              "RelativeToolTip": "CipherBox\\UI\\SubstPoli.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T19:01:35.257Z",
+              "WhenOpened": "2026-01-11T20:01:39.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubstPoli.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubstPoli.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\SubstPoli.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubstPoli.cs [Design]",
-              "RelativeToolTip": "CipherBox\\UI\\SubstPoli.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:58:05.104Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PlusN.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\PlusN.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\PlusN.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\PlusN.cs",
-              "RelativeToolTip": "CipherBox\\UI\\PlusN.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:01:12.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Cezar.cs",
               "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Cezar.cs",
               "RelativeDocumentMoniker": "CipherBox\\UI\\Cezar.cs",
               "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Cezar.cs",
               "RelativeToolTip": "CipherBox\\UI\\Cezar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:11:04.962Z",
+              "WhenOpened": "2026-01-11T20:01:32.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SubsMono.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubsMono.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\SubsMono.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\SubsMono.cs [Design]",
-              "RelativeToolTip": "CipherBox\\UI\\SubsMono.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T14:01:12.803Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CriptAnalysis.cs [Design]",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\CriptAnalysis.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs [Design]",
-              "RelativeToolTip": "CipherBox\\UI\\CriptAnalysis.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:57:19.772Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Playfair.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs",
-              "RelativeDocumentMoniker": "CipherBox\\UI\\Playfair.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs",
-              "RelativeToolTip": "CipherBox\\UI\\Playfair.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwG8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T22:07:43.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SubstModel.cs",
-              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\SubstModel.cs",
-              "RelativeDocumentMoniker": "CipherBox\\CipherModels\\SubstModel.cs",
-              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\CipherModels\\SubstModel.cs",
-              "RelativeToolTip": "CipherBox\\CipherModels\\SubstModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T12:20:05.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "Cezar.cs [Design]",
               "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Cezar.cs",
               "RelativeDocumentMoniker": "CipherBox\\UI\\Cezar.cs",
               "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Cezar.cs [Design]",
               "RelativeToolTip": "CipherBox\\UI\\Cezar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:54:05.038Z",
+              "WhenOpened": "2026-01-11T20:01:31.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CriptAnalysis.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs",
+              "RelativeDocumentMoniker": "CipherBox\\UI\\CriptAnalysis.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs",
+              "RelativeToolTip": "CipherBox\\UI\\CriptAnalysis.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:26.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CriptAnalysis.cs [Design]",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs",
+              "RelativeDocumentMoniker": "CipherBox\\UI\\CriptAnalysis.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\CriptAnalysis.cs [Design]",
+              "RelativeToolTip": "CipherBox\\UI\\CriptAnalysis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:22.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Hash.cs",
+              "RelativeDocumentMoniker": "CipherBox\\UI\\Hash.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Hash.cs",
+              "RelativeToolTip": "CipherBox\\UI\\Hash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:20.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hash.cs [Design]",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Hash.cs",
+              "RelativeDocumentMoniker": "CipherBox\\UI\\Hash.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Hash.cs [Design]",
+              "RelativeToolTip": "CipherBox\\UI\\Hash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:19.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Playfair.cs",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs",
+              "RelativeDocumentMoniker": "CipherBox\\UI\\Playfair.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs",
+              "RelativeToolTip": "CipherBox\\UI\\Playfair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:03.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Playfair.cs [Design]",
+              "DocumentMoniker": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs",
+              "RelativeDocumentMoniker": "CipherBox\\UI\\Playfair.cs",
+              "ToolTip": "D:\\ORADEA\\SEM1\\Cripto\\CipherBox\\CipherBox\\UI\\Playfair.cs [Design]",
+              "RelativeToolTip": "CipherBox\\UI\\Playfair.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:01:01.851Z",
               "EditorCaption": " [Design]"
             }
           ]
