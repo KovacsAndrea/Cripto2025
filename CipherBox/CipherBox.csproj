@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B90B499E-E437-44EA-9EBC-5D52C9AA9862}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CipherBox</RootNamespace>
+    <AssemblyName>CipherBox</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analysis\MonoAlphaAnalysis.cs" />
+    <Compile Include="Analysis\PLayfairAnalysis.cs" />
+    <Compile Include="Analysis\PlusNAnalysis.cs" />
+    <Compile Include="Analysis\PoliAlphaAnalysis.cs" />
+    <Compile Include="Cipher.cs" />
+    <Compile Include="CipherModels\PlayfairModel.cs" />
+    <Compile Include="CipherModels\SubstModel.cs" />
+    <Compile Include="CipherService\CezarCipher.cs" />
+    <Compile Include="CipherModels\PlusNModel.cs" />
+    <Compile Include="CipherService\MonoAplhaCipher.cs" />
+    <Compile Include="CipherService\PlayfairCipher.cs" />
+    <Compile Include="CipherService\PLusNCipher.cs" />
+    <Compile Include="CipherService\PoliAlphaCipher.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Cezar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Cezar.Designer.cs">
+      <DependentUpon>Cezar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CriptAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CriptAnalysis.Designer.cs">
+      <DependentUpon>CriptAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Hash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Hash.Designer.cs">
+      <DependentUpon>Hash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Playfair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Playfair.Designer.cs">
+      <DependentUpon>Playfair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PlusN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PlusN.Designer.cs">
+      <DependentUpon>PlusN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SubsMono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SubsMono.Designer.cs">
+      <DependentUpon>SubsMono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SubstPoli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SubstPoli.Designer.cs">
+      <DependentUpon>SubstPoli.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\Cezar.resx">
+      <DependentUpon>Cezar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CriptAnalysis.resx">
+      <DependentUpon>CriptAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Playfair.resx">
+      <DependentUpon>Playfair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PlusN.resx">
+      <DependentUpon>PlusN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SubsMono.resx">
+      <DependentUpon>SubsMono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SubstPoli.resx">
+      <DependentUpon>SubstPoli.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

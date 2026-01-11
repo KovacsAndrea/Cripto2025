@@ -1,0 +1,17 @@
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.csproj.AssemblyReference.cache
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.Home.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.Properties.Resources.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.UI.Cezar.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.UI.PlusN.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.UI.SubsMono.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.csproj.GenerateResource.cache
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.csproj.CoreCompileInputs.cache
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\bin\Debug\CipherBox.exe.config
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\bin\Debug\CipherBox.exe
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\bin\Debug\CipherBox.pdb
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.exe
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.pdb
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.exe.config
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.UI.Playfair.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.UI.SubstPoli.resources
+D:\ORADEA\SEM1\Cripto\CipherBox\CipherBox\obj\Debug\CipherBox.UI.CriptAnalysis.resources
